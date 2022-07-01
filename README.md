@@ -1,15 +1,15 @@
 # Basic_Portfolio
 Welcome to the basic version of my portfolio using html, js, and css.
 
-- About -
+- About
 
 Contains general information about my passions, interests, and goals.
 
-- Skills-Projects -
+- Skills-Projects
 
 This section displays a brief overview of my skills as a developer, along with a list of several projects I've undertaken. You may click on the title of the projects to be redirected to the github pages for each.
 
-- Contact -
+- Contact
 
 Links to my personal and work social pages are contained here. If you wish, you may also email me directly.
 
